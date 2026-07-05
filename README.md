@@ -9,6 +9,8 @@ What works so far
 - Map screen
 - Pairing TomTom
 - Setting up smartphone notifications
+- Traffic (provided by tomtom may stop working)
+- Searching Places (provided by tomtom may stop working)
 
 What does not work
 - My Places
