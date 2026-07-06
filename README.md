@@ -11,6 +11,7 @@ What works so far
 - Setting up smartphone notifications
 - Traffic (provided by tomtom may stop working)
 - Searching Places (provided by tomtom may stop working)
+- Traffic and other services via MyDrive Mobile app (not Bluetooth tethering)
 
 What does not work
 - My Places
